@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cryptix-jce</groupId>
+  <artifactId>cryptix-jce-provider</artifactId>
+  <versioning>
+    <latest>20050328-osgi</latest>
+    <release>20050328-osgi</release>
+    <versions>
+      <version>20050328</version>
+      <version>20050328-osgi</version>
+    </versions>
+    <lastUpdated>20140526203312</lastUpdated>
+  </versioning>
+</metadata>
